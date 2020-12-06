@@ -1,0 +1,21 @@
+h1 {
+    color: brown;
+    font-family: cursive;
+}
+body {
+    background-image: url('https://media.giphy.com/media/h2U7mw5FtSqDenaGwJ/giphy.gif');
+    text-align: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+h2 {
+    color: pink;
+}
+
+h1 {
+    border: 2px solid black;
+    margin: 30px;
+}
+
